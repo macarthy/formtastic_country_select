@@ -1,2 +1,2 @@
 require 'pry'
-require 'FormtasticCountrySelect'
+require 'formtastic_country_select'
